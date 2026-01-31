@@ -8,20 +8,6 @@
       "points": 2
     },
     {
-      "team": "Godlike eSports",
-      "played": 1,
-      "won": 0,
-      "lost": 1,
-      "points": 0
-    },
-    {
-      "team": "Apex Strikers",
-      "played": 1,
-      "won": 0,
-      "lost": 1,
-      "points": 0
-    },
-    {
       "team": "Chokers 49",
       "played": 1,
       "won": 1,
@@ -36,6 +22,20 @@
       "points": 2
     },
     {
+      "team": "Godlike eSports",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "points": 0
+    },
+    {
+      "team": "Apex Strikers",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "points": 0
+    },
+    {
       "team": "Red Dragons",
       "played": 1,
       "won": 0,
@@ -44,20 +44,6 @@
     }
   ],
   "B": [
-    {
-      "team": "Warriors Of Chaos",
-      "played": 1,
-      "won": 0,
-      "lost": 1,
-      "points": 0
-    },
-    {
-      "team": "The Celestials",
-      "played": 1,
-      "won": 0,
-      "lost": 1,
-      "points": 0
-    },
     {
       "team": "The Clovers",
       "played": 1,
@@ -73,18 +59,32 @@
       "points": 2
     },
     {
-      "team": "Ancient United",
+      "team": "Cemetery Wind",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "points": 2
+    },
+    {
+      "team": "Warriors Of Chaos",
       "played": 1,
       "won": 0,
       "lost": 1,
       "points": 0
     },
     {
-      "team": "Cemetery Wind",
+      "team": "The Celestials",
       "played": 1,
-      "won": 1,
-      "lost": 0,
-      "points": 2
+      "won": 0,
+      "lost": 1,
+      "points": 0
+    },
+    {
+      "team": "Ancient United",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "points": 0
     }
   ],
   "C": [
@@ -96,11 +96,18 @@
       "points": 2
     },
     {
-      "team": "Flaming Phoneix",
+      "team": "Phantom Hawks",
       "played": 1,
-      "won": 0,
-      "lost": 1,
-      "points": 0
+      "won": 1,
+      "lost": 0,
+      "points": 2
+    },
+    {
+      "team": "Ahjin Guild",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "points": 2
     },
     {
       "team": "Royal Kings",
@@ -110,10 +117,10 @@
       "points": 0
     },
     {
-      "team": "Phantom Hawks",
-      "played": 0,
+      "team": "Flaming Phoneix",
+      "played": 1,
       "won": 0,
-      "lost": 0,
+      "lost": 1,
       "points": 0
     },
     {
@@ -122,18 +129,25 @@
       "won": 0,
       "lost": 1,
       "points": 0
-    },
-    {
-      "team": "Ahjin Guild",
-      "played": 1,
-      "won": 1,
-      "lost": 0,
-      "points": 2
     }
   ],
   "D": [
     {
       "team": "Avengers",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "points": 2
+    },
+    {
+      "team": "Prime Titans",
+      "played": 1,
+      "won": 1,
+      "lost": 0,
+      "points": 2
+    },
+    {
+      "team": "Dynamic Spartans",
       "played": 1,
       "won": 1,
       "lost": 0,
@@ -159,20 +173,6 @@
       "won": 0,
       "lost": 1,
       "points": 0
-    },
-    {
-      "team": "Prime Titans",
-      "played": 1,
-      "won": 1,
-      "lost": 0,
-      "points": 2
-    },
-    {
-      "team": "Dynamic Spartans",
-      "played": 1,
-      "won": 1,
-      "lost": 0,
-      "points": 2
     }
   ]
 }
