@@ -110,14 +110,14 @@
       "points": 2
     },
     {
-      "team": "Royal Kings",
-      "played": 0,
+      "team": "Flaming Phoneix",
+      "played": 1,
       "won": 0,
-      "lost": 0,
+      "lost": 1,
       "points": 0
     },
     {
-      "team": "Flaming Phoneix",
+      "team": "Royal Kings",
       "played": 1,
       "won": 0,
       "lost": 1,
