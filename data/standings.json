@@ -43,7 +43,15 @@
       "points": 0
     }
   ],
-  "B": [],
+  "B": [
+    {
+      "team": "Warriors Of Chaos",
+      "played": 0,
+      "won": 0,
+      "lost": 0,
+      "points": 0
+    }
+  ],
   "C": [],
   "D": []
 }
