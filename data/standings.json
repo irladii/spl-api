@@ -125,10 +125,10 @@
     },
     {
       "team": "Ahjin Guild",
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "lost": 0,
-      "points": 0
+      "points": 2
     }
   ],
   "D": [
