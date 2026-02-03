@@ -90,16 +90,16 @@
   "C": [
     {
       "team": "Battle For Boundaries",
-      "played": 4,
-      "won": 4,
+      "played": 3,
+      "won": 3,
       "lost": 0,
-      "points": 8
+      "points": 6
     },
     {
       "team": "Ahjin Guild",
-      "played": 4,
+      "played": 3,
       "won": 2,
-      "lost": 2,
+      "lost": 1,
       "points": 4
     },
     {
