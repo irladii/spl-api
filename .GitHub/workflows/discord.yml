@@ -1,0 +1,17 @@
+name: Discord Notify
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord message
+        run: |
+          curl -X POST \
+          -H "Content-Type: application/json" \
+          -d "{\"content\":\"New commit pushed to spl-api\n${{ github.event.head_commit.message }}\"}" \
+          https://discord.com/api/webhooks/1468049340219003142/AWQgI924WQkauxNZ5InlgVsoGVzMYrv1zTSbeuEkonTjUmFO3LnFyOi5EgHyGCtP1W6H
