@@ -1,17 +1,17 @@
 {
   "A": [
     {
-      "team": "The Assassins",
+      "team": "Chokers 49",
       "played": 2,
       "won": 2,
       "lost": 0,
       "points": 4
     },
     {
-      "team": "Chokers 49",
-      "played": 2,
+      "team": "The Assassins",
+      "played": 3,
       "won": 2,
-      "lost": 0,
+      "lost": 1,
       "points": 4
     },
     {
