@@ -96,6 +96,13 @@
       "points": 6
     },
     {
+      "team": "Ahjin Guild",
+      "played": 4,
+      "won": 3,
+      "lost": 1,
+      "points": 6
+    },
+    {
       "team": "Head & Shoulders Mafia",
       "played": 3,
       "won": 2,
@@ -104,13 +111,6 @@
     },
     {
       "team": "Phantom Hawks",
-      "played": 4,
-      "won": 2,
-      "lost": 2,
-      "points": 4
-    },
-    {
-      "team": "Ahjin Guild",
       "played": 4,
       "won": 2,
       "lost": 2,
@@ -147,13 +147,6 @@
       "points": 8
     },
     {
-      "team": "Avengers",
-      "played": 4,
-      "won": 2,
-      "lost": 2,
-      "points": 4
-    },
-    {
       "team": "Wildfire Wolves",
       "played": 4,
       "won": 2,
@@ -161,7 +154,7 @@
       "points": 4
     },
     {
-      "team": "Imperium X",
+      "team": "Avengers",
       "played": 4,
       "won": 1,
       "lost": 3,
@@ -169,6 +162,13 @@
     },
     {
       "team": "Hubbers",
+      "played": 3,
+      "won": 0,
+      "lost": 3,
+      "points": 0
+    },
+    {
+      "team": "Imperium X",
       "played": 3,
       "won": 0,
       "lost": 3,
