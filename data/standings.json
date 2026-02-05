@@ -89,18 +89,18 @@
   ],
   "C": [
     {
-      "team": "Ahjin Guild",
+      "team": "Battle For Boundaries",
       "played": 5,
       "won": 4,
       "lost": 1,
       "points": 8
     },
     {
-      "team": "Battle For Boundaries",
-      "played": 4,
-      "won": 3,
+      "team": "Ahjin Guild",
+      "played": 5,
+      "won": 4,
       "lost": 1,
-      "points": 6
+      "points": 8
     },
     {
       "team": "Head & Shoulders Mafia",
