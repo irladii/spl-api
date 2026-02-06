@@ -45,17 +45,17 @@
   ],
   "B": [
     {
+      "team": "Ancient United",
+      "played": 6,
+      "won": 5,
+      "lost": 1,
+      "points": 10
+    },
+    {
       "team": "Baby Oil FC",
       "played": 4,
       "won": 4,
       "lost": 0,
-      "points": 8
-    },
-    {
-      "team": "Ancient United",
-      "played": 5,
-      "won": 4,
-      "lost": 1,
       "points": 8
     },
     {
