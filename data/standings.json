@@ -15,6 +15,13 @@
       "points": 8
     },
     {
+      "team": "The Assassins",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "points": 6
+    },
+    {
       "team": "Red Dragons",
       "played": 6,
       "won": 3,
@@ -26,13 +33,6 @@
       "played": 4,
       "won": 2,
       "lost": 2,
-      "points": 4
-    },
-    {
-      "team": "The Assassins",
-      "played": 5,
-      "won": 2,
-      "lost": 3,
       "points": 4
     },
     {
