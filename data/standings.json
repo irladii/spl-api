@@ -133,17 +133,17 @@
   ],
   "D": [
     {
-      "team": "Prime Titans",
+      "team": "Dynamic Spartans",
       "played": 6,
       "won": 6,
       "lost": 0,
       "points": 12
     },
     {
-      "team": "Dynamic Spartans",
-      "played": 6,
+      "team": "Prime Titans",
+      "played": 7,
       "won": 6,
-      "lost": 0,
+      "lost": 1,
       "points": 12
     },
     {
