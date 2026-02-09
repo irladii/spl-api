@@ -59,6 +59,13 @@
       "points": 8
     },
     {
+      "team": "Warriors Of Chaos",
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 4
+    },
+    {
       "team": "The Clovers",
       "played": 5,
       "won": 2,
@@ -77,13 +84,6 @@
       "played": 3,
       "won": 1,
       "lost": 2,
-      "points": 2
-    },
-    {
-      "team": "Warriors Of Chaos",
-      "played": 4,
-      "won": 1,
-      "lost": 3,
       "points": 2
     }
   ],
