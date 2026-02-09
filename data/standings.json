@@ -8,17 +8,17 @@
       "points": 12
     },
     {
+      "team": "The Assassins",
+      "played": 8,
+      "won": 5,
+      "lost": 3,
+      "points": 10
+    },
+    {
       "team": "Apex Strikers",
       "played": 6,
       "won": 4,
       "lost": 2,
-      "points": 8
-    },
-    {
-      "team": "The Assassins",
-      "played": 7,
-      "won": 4,
-      "lost": 3,
       "points": 8
     },
     {
