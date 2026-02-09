@@ -1,17 +1,17 @@
 {
   "A": [
     {
+      "team": "Chokers 49",
+      "played": 7,
+      "won": 5,
+      "lost": 2,
+      "points": 10
+    },
+    {
       "team": "Apex Strikers",
       "played": 5,
       "won": 4,
       "lost": 1,
-      "points": 8
-    },
-    {
-      "team": "Chokers 49",
-      "played": 6,
-      "won": 4,
-      "lost": 2,
       "points": 8
     },
     {
