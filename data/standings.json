@@ -169,10 +169,10 @@
     },
     {
       "team": "Hubbers",
-      "played": 5,
-      "won": 0,
+      "played": 6,
+      "won": 1,
       "lost": 5,
-      "points": 0
+      "points": 2
     }
   ]
 }
