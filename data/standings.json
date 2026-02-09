@@ -110,18 +110,18 @@
       "points": 6
     },
     {
+      "team": "Royal Kings",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "points": 6
+    },
+    {
       "team": "Phantom Hawks",
       "played": 7,
       "won": 3,
       "lost": 4,
       "points": 6
-    },
-    {
-      "team": "Royal Kings",
-      "played": 5,
-      "won": 2,
-      "lost": 3,
-      "points": 4
     },
     {
       "team": "Flaming Phoneix",
