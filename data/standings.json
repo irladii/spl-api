@@ -154,6 +154,13 @@
       "points": 8
     },
     {
+      "team": "Hubbers",
+      "played": 7,
+      "won": 2,
+      "lost": 5,
+      "points": 4
+    },
+    {
       "team": "Avengers",
       "played": 8,
       "won": 2,
@@ -166,13 +173,6 @@
       "won": 2,
       "lost": 6,
       "points": 4
-    },
-    {
-      "team": "Hubbers",
-      "played": 6,
-      "won": 1,
-      "lost": 5,
-      "points": 2
     }
   ]
 }
