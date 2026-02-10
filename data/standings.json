@@ -1,18 +1,18 @@
 {
   "A": [
     {
-      "team": "Chokers 49",
+      "team": "The Assassins",
       "played": 9,
       "won": 6,
       "lost": 3,
       "points": 12
     },
     {
-      "team": "The Assassins",
-      "played": 8,
-      "won": 5,
+      "team": "Chokers 49",
+      "played": 9,
+      "won": 6,
       "lost": 3,
-      "points": 10
+      "points": 12
     },
     {
       "team": "Red Dragons",
