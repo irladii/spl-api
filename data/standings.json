@@ -103,6 +103,13 @@
       "points": 12
     },
     {
+      "team": "Phantom Hawks",
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "points": 10
+    },
+    {
       "team": "Head & Shoulders Mafia",
       "played": 7,
       "won": 4,
@@ -111,13 +118,6 @@
     },
     {
       "team": "Royal Kings",
-      "played": 9,
-      "won": 4,
-      "lost": 5,
-      "points": 8
-    },
-    {
-      "team": "Phantom Hawks",
       "played": 9,
       "won": 4,
       "lost": 5,
