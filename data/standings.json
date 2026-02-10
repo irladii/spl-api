@@ -52,18 +52,18 @@
       "points": 18
     },
     {
+      "team": "The Celestials",
+      "played": 7,
+      "won": 4,
+      "lost": 3,
+      "points": 8
+    },
+    {
       "team": "Baby Oil FC",
       "played": 8,
       "won": 4,
       "lost": 4,
       "points": 8
-    },
-    {
-      "team": "The Celestials",
-      "played": 6,
-      "won": 3,
-      "lost": 3,
-      "points": 6
     },
     {
       "team": "The Clovers",
