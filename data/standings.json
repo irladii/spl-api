@@ -59,18 +59,18 @@
       "points": 8
     },
     {
+      "team": "The Celestials",
+      "played": 6,
+      "won": 3,
+      "lost": 3,
+      "points": 6
+    },
+    {
       "team": "The Clovers",
       "played": 7,
       "won": 3,
       "lost": 4,
       "points": 6
-    },
-    {
-      "team": "The Celestials",
-      "played": 5,
-      "won": 2,
-      "lost": 3,
-      "points": 4
     },
     {
       "team": "Warriors Of Chaos",
