@@ -89,6 +89,13 @@
   ],
   "C": [
     {
+      "team": "Head & Shoulders Mafia",
+      "played": 9,
+      "won": 6,
+      "lost": 3,
+      "points": 12
+    },
+    {
       "team": "Battle For Boundaries",
       "played": 10,
       "won": 6,
@@ -101,13 +108,6 @@
       "won": 6,
       "lost": 4,
       "points": 12
-    },
-    {
-      "team": "Head & Shoulders Mafia",
-      "played": 8,
-      "won": 5,
-      "lost": 3,
-      "points": 10
     },
     {
       "team": "Phantom Hawks",
