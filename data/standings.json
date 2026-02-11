@@ -154,17 +154,17 @@
       "points": 8
     },
     {
+      "team": "Imperium X",
+      "played": 9,
+      "won": 3,
+      "lost": 6,
+      "points": 6
+    },
+    {
       "team": "Hubbers",
       "played": 7,
       "won": 2,
       "lost": 5,
-      "points": 4
-    },
-    {
-      "team": "Imperium X",
-      "played": 8,
-      "won": 2,
-      "lost": 6,
       "points": 4
     },
     {
