@@ -52,6 +52,13 @@
       "points": 18
     },
     {
+      "team": "The Celestials",
+      "played": 10,
+      "won": 5,
+      "lost": 5,
+      "points": 10
+    },
+    {
       "team": "Baby Oil FC",
       "played": 10,
       "won": 5,
@@ -60,13 +67,6 @@
     },
     {
       "team": "Warriors Of Chaos",
-      "played": 9,
-      "won": 4,
-      "lost": 5,
-      "points": 8
-    },
-    {
-      "team": "The Celestials",
       "played": 9,
       "won": 4,
       "lost": 5,
