@@ -73,17 +73,17 @@
       "points": 8
     },
     {
-      "team": "The Clovers",
+      "team": "Cemetery Wind",
       "played": 9,
       "won": 3,
       "lost": 6,
       "points": 6
     },
     {
-      "team": "Cemetery Wind",
-      "played": 9,
+      "team": "The Clovers",
+      "played": 10,
       "won": 3,
-      "lost": 6,
+      "lost": 7,
       "points": 6
     }
   ],
