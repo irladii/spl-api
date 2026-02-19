@@ -8,6 +8,13 @@
       "points": 4
     },
     {
+      "team": "Head & Shoulders Mafia",
+      "played": 3,
+      "won": 2,
+      "lost": 1,
+      "points": 4
+    },
+    {
       "team": "Baby Oil FC",
       "played": 1,
       "won": 1,
@@ -16,13 +23,6 @@
     },
     {
       "team": "Red Dragons",
-      "played": 2,
-      "won": 1,
-      "lost": 1,
-      "points": 2
-    },
-    {
-      "team": "Head & Shoulders Mafia",
       "played": 2,
       "won": 1,
       "lost": 1,
