@@ -15,13 +15,6 @@
       "points": 0
     },
     {
-      "team": "Battle For Boundaries",
-      "played": 0,
-      "won": 0,
-      "lost": 0,
-      "points": 0
-    },
-    {
       "team": "Red Dragons",
       "played": 0,
       "won": 0,
@@ -40,6 +33,13 @@
       "played": 0,
       "won": 0,
       "lost": 0,
+      "points": 0
+    },
+    {
+      "team": "Battle For Boundaries",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
       "points": 0
     }
   ],
