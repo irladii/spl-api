@@ -22,6 +22,13 @@
       "points": 2
     },
     {
+      "team": "Head & Shoulders Mafia",
+      "played": 2,
+      "won": 1,
+      "lost": 1,
+      "points": 2
+    },
+    {
       "team": "The Assassins",
       "played": 1,
       "won": 0,
@@ -30,13 +37,6 @@
     },
     {
       "team": "Battle For Boundaries",
-      "played": 1,
-      "won": 0,
-      "lost": 1,
-      "points": 0
-    },
-    {
-      "team": "Head & Shoulders Mafia",
       "played": 1,
       "won": 0,
       "lost": 1,
