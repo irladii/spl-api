@@ -66,13 +66,6 @@
       "points": 0
     },
     {
-      "team": "Prime Titans",
-      "played": 0,
-      "won": 0,
-      "lost": 0,
-      "points": 0
-    },
-    {
       "team": "The Celestials",
       "played": 1,
       "won": 0,
@@ -81,6 +74,13 @@
     },
     {
       "team": "Ancient United",
+      "played": 1,
+      "won": 0,
+      "lost": 1,
+      "points": 0
+    },
+    {
+      "team": "Prime Titans",
       "played": 1,
       "won": 0,
       "lost": 1,
