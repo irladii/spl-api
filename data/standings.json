@@ -1,18 +1,18 @@
 {
   "A": [
     {
+      "team": "Dynamic Spartans",
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "points": 9
+    },
+    {
       "team": "Baby Oil FC",
       "played": 5,
       "won": 4,
       "lost": 1,
       "points": 8
-    },
-    {
-      "team": "Dynamic Spartans",
-      "played": 4,
-      "won": 3,
-      "lost": 1,
-      "points": 7
     },
     {
       "team": "Head & Shoulders Mafia",
