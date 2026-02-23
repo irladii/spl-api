@@ -22,6 +22,13 @@
       "points": 6
     },
     {
+      "team": "Battle For Boundaries",
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 4
+    },
+    {
       "team": "Red Dragons",
       "played": 5,
       "won": 2,
@@ -30,13 +37,6 @@
     },
     {
       "team": "The Assassins",
-      "played": 4,
-      "won": 1,
-      "lost": 3,
-      "points": 2
-    },
-    {
-      "team": "Battle For Boundaries",
       "played": 4,
       "won": 1,
       "lost": 3,
