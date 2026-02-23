@@ -22,6 +22,13 @@
       "points": 7
     },
     {
+      "team": "The Assassins",
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 4
+    },
+    {
       "team": "Battle For Boundaries",
       "played": 5,
       "won": 2,
@@ -34,13 +41,6 @@
       "won": 2,
       "lost": 3,
       "points": 4
-    },
-    {
-      "team": "The Assassins",
-      "played": 4,
-      "won": 1,
-      "lost": 3,
-      "points": 2
     }
   ],
   "B": [
