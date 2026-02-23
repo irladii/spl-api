@@ -1,6 +1,13 @@
 {
   "A": [
     {
+      "team": "Baby Oil FC",
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "points": 8
+    },
+    {
       "team": "Dynamic Spartans",
       "played": 4,
       "won": 3,
@@ -13,13 +20,6 @@
       "won": 3,
       "lost": 2,
       "points": 7
-    },
-    {
-      "team": "Baby Oil FC",
-      "played": 4,
-      "won": 3,
-      "lost": 1,
-      "points": 6
     },
     {
       "team": "Battle For Boundaries",
